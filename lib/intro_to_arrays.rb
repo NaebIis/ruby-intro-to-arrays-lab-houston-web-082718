@@ -3,4 +3,5 @@ def instantiate_new_array
 end
 
 def array_with_two_elements 
-  newArray2 = [1, 2]
+  newArray2 = ['the', 'one']
+end
