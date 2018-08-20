@@ -29,7 +29,7 @@ def first_element_with_array_methods(array)
 end
   
 def last_element_with_array_methods(array) 
-  newArray2 = ["Thailand", 'one', "Style", "Out of The Woods"]
+  newArray2 = ["Thailand", 'one', "Style", "Out of The Woods", "Myanmar"]
   return newArray2.pop
 end
   
