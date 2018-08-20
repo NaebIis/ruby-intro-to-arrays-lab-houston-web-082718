@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def first_element
-  array3 = newArray2.shift
+  array3 = newArray2[0]
 end
