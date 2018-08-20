@@ -14,6 +14,7 @@ def first_element(array)
 end
 
 def third_element(array)
- newArray2
+ return newArray2[3]
+ end
   
 
