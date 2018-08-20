@@ -8,3 +8,4 @@ end
 
 def first_element
   array3 = newArray2.shift
+end
