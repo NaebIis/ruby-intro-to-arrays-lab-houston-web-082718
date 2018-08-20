@@ -14,7 +14,7 @@ def first_element(array)
 end
 
 def third_element(array)
-newArray2 = ["Welcome to New York", 'one', "hair"]
+newArray2 = ["Welcome to New York", 'one', "style"]
  return newArray2[3]
  end
   
