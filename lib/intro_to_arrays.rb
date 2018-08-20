@@ -8,6 +8,6 @@ end
 
 def first_element(array)
   newArray2 = ["Welcome to New York", 'one']
-  puts newArray2[0]
+  newArray2[0]
 end
 
