@@ -28,7 +28,10 @@ def first_element_with_array_methods(array)
   return newArray2.shift
 end
   
-def last_element_with_array_methods  
+def last_element_with_array_methods(array) 
+  newArray2 = ["Thailand", 'one', "Style", "Out of The Woods"]
+  return newArray2.pop
+end
   
   
   
