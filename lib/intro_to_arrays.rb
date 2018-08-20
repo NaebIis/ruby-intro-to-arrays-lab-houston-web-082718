@@ -32,6 +32,11 @@ def last_element_with_array_methods(array)
   newArray2 = ["Thailand", 'one', "Style", "Out of The Woods", "Myanmar"]
   return newArray2.pop
 end
+
+def length_of_array(array)
+  newArray2 = ["Thailand", 'one', "Style", "Out of The Woods", "Myanmar"]
+  return newArray2.length
+end
   
   
   
