@@ -18,4 +18,6 @@ newArray2 = ["Welcome to New York", 'one', "Style"]
  return newArray2[2]
  end
   
+def last_element9(array)
+  
 
