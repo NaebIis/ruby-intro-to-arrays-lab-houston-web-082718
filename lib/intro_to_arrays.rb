@@ -19,7 +19,7 @@ newArray2 = ["Welcome to New York", 'one', "Style"]
  end
   
 def last_element(array)
-  newArray2 ["Welcome to New York", 'one', "Style", "The last"]
+  newArray2 = ["Welcome to New York", 'one', "Style", "The last"]
   return newArray2[3]
 end
   
