@@ -26,6 +26,7 @@ end
 def first_element_with_array_methods(array)
   newArray2 = ["Welcome to New York", 'one', "Style", "Out of The Woods"]
   return newArray2.shift
+end
   
   
   
