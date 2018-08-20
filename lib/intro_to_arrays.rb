@@ -1,3 +1,5 @@
+newArray2 ["Welcome to New York", 'one', "hair"]
+
 def instantiate_new_array
   newArray = []
 end
@@ -10,4 +12,8 @@ def first_element(array)
   newArray2 = ["Welcome to New York", 'one']
   return newArray2[0]
 end
+
+def third_element(array)
+ newArray2
+  
 
